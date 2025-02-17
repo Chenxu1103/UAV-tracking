@@ -1,3 +1,8 @@
+
+![7271739783917_ pic](https://github.com/user-attachments/assets/7d242b84-f871-4074-a793-10d8c65ae18f)
+
+
+
 # UAV-tracking
 A cutting-edge UAV tracking system that combines deep learning (ProContEXT network) with Kalman filtering through adaptive fusion strategy. Features real-time processing, high-precision tracking, and visualization capabilities. Built with PyTorch and OpenCV, it excels in complex aerial surveillance scenarios.
 
